@@ -1,1 +1,1 @@
-# stfalconTask
+# A Symfony console command that receives exchange rates from a private bank and a monobank, and then checks whether they have changed by more or less than a given threshold. If so, sends a message with information about the course change.
